@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "blog-posts",
+			"path": "..\\ui_hw_19\\blog-posts"
+		},
+		{
+			"name": "css",
+			"path": "..\\ui_hw_19\\css"
+		},
+		{
+			"name": "cubeportfolio",
+			"path": "..\\ui_hw_19\\cubeportfolio"
+		},
+		{
+			"name": "icon-fonts",
+			"path": "..\\ui_hw_19\\icon-fonts"
+		},
+		{
+			"name": "images",
+			"path": "..\\ui_hw_19\\images"
+		},
+		{
+			"name": "js",
+			"path": "..\\ui_hw_19\\js"
+		},
+		{
+			"name": "load-more",
+			"path": "..\\ui_hw_19\\load-more"
+		},
+		{
+			"name": "portfolio-detail",
+			"path": "..\\ui_hw_19\\portfolio-detail"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ux_ui_hw_19"
+	}
+}
